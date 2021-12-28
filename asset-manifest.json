@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Critianr/curso-reaTak.git/static/css/main.bdda194a.chunk.css",
-    "main.js": "/Critianr/curso-reaTak.git/static/js/main.a51828a7.chunk.js",
-    "main.js.map": "/Critianr/curso-reaTak.git/static/js/main.a51828a7.chunk.js.map",
-    "runtime-main.js": "/Critianr/curso-reaTak.git/static/js/runtime-main.9e01c82d.js",
-    "runtime-main.js.map": "/Critianr/curso-reaTak.git/static/js/runtime-main.9e01c82d.js.map",
-    "static/js/2.6af09469.chunk.js": "/Critianr/curso-reaTak.git/static/js/2.6af09469.chunk.js",
-    "static/js/2.6af09469.chunk.js.map": "/Critianr/curso-reaTak.git/static/js/2.6af09469.chunk.js.map",
-    "index.html": "/Critianr/curso-reaTak.git/index.html",
-    "static/css/main.bdda194a.chunk.css.map": "/Critianr/curso-reaTak.git/static/css/main.bdda194a.chunk.css.map",
-    "static/js/2.6af09469.chunk.js.LICENSE.txt": "/Critianr/curso-reaTak.git/static/js/2.6af09469.chunk.js.LICENSE.txt"
+    "main.css": "/git@github.com:Critianr/curso-reaTak.git/static/css/main.bdda194a.chunk.css",
+    "main.js": "/git@github.com:Critianr/curso-reaTak.git/static/js/main.a51828a7.chunk.js",
+    "main.js.map": "/git@github.com:Critianr/curso-reaTak.git/static/js/main.a51828a7.chunk.js.map",
+    "runtime-main.js": "/git@github.com:Critianr/curso-reaTak.git/static/js/runtime-main.c1260875.js",
+    "runtime-main.js.map": "/git@github.com:Critianr/curso-reaTak.git/static/js/runtime-main.c1260875.js.map",
+    "static/js/2.6af09469.chunk.js": "/git@github.com:Critianr/curso-reaTak.git/static/js/2.6af09469.chunk.js",
+    "static/js/2.6af09469.chunk.js.map": "/git@github.com:Critianr/curso-reaTak.git/static/js/2.6af09469.chunk.js.map",
+    "index.html": "/git@github.com:Critianr/curso-reaTak.git/index.html",
+    "static/css/main.bdda194a.chunk.css.map": "/git@github.com:Critianr/curso-reaTak.git/static/css/main.bdda194a.chunk.css.map",
+    "static/js/2.6af09469.chunk.js.LICENSE.txt": "/git@github.com:Critianr/curso-reaTak.git/static/js/2.6af09469.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9e01c82d.js",
+    "static/js/runtime-main.c1260875.js",
     "static/js/2.6af09469.chunk.js",
     "static/css/main.bdda194a.chunk.css",
     "static/js/main.a51828a7.chunk.js"
