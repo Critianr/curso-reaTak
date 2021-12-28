@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/git@github.com:Critianr/curso-reaTak.git/static/css/main.bdda194a.chunk.css",
-    "main.js": "/git@github.com:Critianr/curso-reaTak.git/static/js/main.a51828a7.chunk.js",
-    "main.js.map": "/git@github.com:Critianr/curso-reaTak.git/static/js/main.a51828a7.chunk.js.map",
-    "runtime-main.js": "/git@github.com:Critianr/curso-reaTak.git/static/js/runtime-main.c1260875.js",
-    "runtime-main.js.map": "/git@github.com:Critianr/curso-reaTak.git/static/js/runtime-main.c1260875.js.map",
-    "static/js/2.6af09469.chunk.js": "/git@github.com:Critianr/curso-reaTak.git/static/js/2.6af09469.chunk.js",
-    "static/js/2.6af09469.chunk.js.map": "/git@github.com:Critianr/curso-reaTak.git/static/js/2.6af09469.chunk.js.map",
-    "index.html": "/git@github.com:Critianr/curso-reaTak.git/index.html",
-    "static/css/main.bdda194a.chunk.css.map": "/git@github.com:Critianr/curso-reaTak.git/static/css/main.bdda194a.chunk.css.map",
-    "static/js/2.6af09469.chunk.js.LICENSE.txt": "/git@github.com:Critianr/curso-reaTak.git/static/js/2.6af09469.chunk.js.LICENSE.txt"
+    "main.css": "/curso-reaTak/static/css/main.bdda194a.chunk.css",
+    "main.js": "/curso-reaTak/static/js/main.a51828a7.chunk.js",
+    "main.js.map": "/curso-reaTak/static/js/main.a51828a7.chunk.js.map",
+    "runtime-main.js": "/curso-reaTak/static/js/runtime-main.7ba4202b.js",
+    "runtime-main.js.map": "/curso-reaTak/static/js/runtime-main.7ba4202b.js.map",
+    "static/js/2.6af09469.chunk.js": "/curso-reaTak/static/js/2.6af09469.chunk.js",
+    "static/js/2.6af09469.chunk.js.map": "/curso-reaTak/static/js/2.6af09469.chunk.js.map",
+    "index.html": "/curso-reaTak/index.html",
+    "static/css/main.bdda194a.chunk.css.map": "/curso-reaTak/static/css/main.bdda194a.chunk.css.map",
+    "static/js/2.6af09469.chunk.js.LICENSE.txt": "/curso-reaTak/static/js/2.6af09469.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c1260875.js",
+    "static/js/runtime-main.7ba4202b.js",
     "static/js/2.6af09469.chunk.js",
     "static/css/main.bdda194a.chunk.css",
     "static/js/main.a51828a7.chunk.js"
